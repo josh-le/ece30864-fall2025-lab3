@@ -1,0 +1,8 @@
+A. Pros and cons of Agile Development?
+pros:
+- able to quickly get and implement feedback from users and stakeholders
+- not committed to everything working on an exact timeline like in waterfall
+
+cons:
+- harder to get a wide view of where the project is going to end up, because it could change from week to week.
+- having to spend extra effort to always have a working product while development continues.
