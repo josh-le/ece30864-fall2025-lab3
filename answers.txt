@@ -6,3 +6,7 @@ pros:
 cons:
 - harder to get a wide view of where the project is going to end up, because it could change from week to week.
 - having to spend extra effort to always have a working product while development continues.
+
+
+B. Responsibilities of scrum master vs product owner?
+The product owner handles delivery and facilitation of the product at the furthest level from their development. They basically pass requirements to the scrum master. The Scrum Master is then responsible for dividing up all of the tasks and implementing it in JIRA, and scheduling/facilitating meetings.
