@@ -24,3 +24,14 @@ C. Types of meetings during a sprint?
 - Sprint Retrospective
     - occurs at the end of the sprint
     - discuss work completed and put incomplete work in backlog
+
+
+D. Types in JIRA?
+- Task
+    - An individual thing that can be done for progress, interchangeable with story
+- Bug
+    - a problem that is causing the delay of something else
+- Story
+    - A part of an epic, should be a single accomplishable thing
+- Epic
+    - A large task that can be broken into many tasks to be separately completed
