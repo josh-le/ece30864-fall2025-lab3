@@ -10,3 +10,17 @@ cons:
 
 B. Responsibilities of scrum master vs product owner?
 The product owner handles delivery and facilitation of the product at the furthest level from their development. They basically pass requirements to the scrum master. The Scrum Master is then responsible for dividing up all of the tasks and implementing it in JIRA, and scheduling/facilitating meetings.
+
+
+C. Types of meetings during a sprint?
+- Sprint Planning Meeting
+    - determine what to complete in upcoming sprint
+    - determine story points and assign stories to team
+
+- Daily Standup
+    - short meeting, ~10 mins long
+    - members discuss work completed and work for the day
+
+- Sprint Retrospective
+    - occurs at the end of the sprint
+    - discuss work completed and put incomplete work in backlog
